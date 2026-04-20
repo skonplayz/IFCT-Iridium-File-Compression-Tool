@@ -133,4 +133,6 @@ See the [LICENSE](LICENSE) file for details.
 - [ ] Batch compression from CLI
 - [ ] LZMA2 compression option (for higher ratios)
 
+[Zipped source code](https://github.com/user-attachments/files/26910416/ifct-1.0-source.zip)
+
 **Made with ❤️ to help you bypass file size limits**
