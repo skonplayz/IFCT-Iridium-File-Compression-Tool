@@ -1,0 +1,33 @@
+IFCT MODIFICATION LICENSE
+
+Copyright (c) 2026 IFCT Project
+
+This license grants you the following rights and restrictions:
+
+1. PERMISSION TO MODIFY
+   You are granted the right to modify, copy, and use the source code of the IFCT (Iridium File Compression Tool) solely for the purpose of creating modifications to the IFCT tool.
+
+2. NAMING REQUIREMENTS
+   Any modified version of this software must be clearly identified as a modification of the IFCT tool. The modified software must:
+   - Include "IFCT" or "Iridium File Compression Tool" in its name
+   - Clearly state that it is a modified version in any documentation, user interface, or metadata
+   - Preserve the original copyright notice in all source files
+
+3. USAGE RESTRICTIONS
+   - You may NOT use this source code for any purpose other than creating modifications to the IFCT tool
+   - You may NOT extract components of this code for use in other projects
+   - You may NOT use this code as a base for competing compression tools
+   - You may NOT remove or alter this license from modified versions
+
+4. DISTRIBUTION
+   You may distribute modified versions of the IFCT tool provided that:
+   - The modified version is clearly identified as such
+   - This license is included with the distribution
+   - Source code of modifications is provided to recipients upon request
+   - The naming requirements from section 2 are met
+
+5. DISCLAIMER
+   This software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
+
+6. ATTRIBUTION
+   All modified versions must credit the original IFCT project and include a link to the original repository if applicable.
