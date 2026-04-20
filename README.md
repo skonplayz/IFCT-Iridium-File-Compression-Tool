@@ -1,8 +1,9 @@
 # Iridium Compressor
 
-![Windows](https://img.shields.io/badge/OS-Windows-blue.svg)
-![.NET](https://img.shields.io/badge/.NET-8.0-purple.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Windows](https://img.shields.io/badge/OS-Windows_10%2B-blue?style=plastic&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/NET-8.0-purple?style=plastic)
+![license](https://img.shields.io/badge/license-in_repo-brightgreen?style=plastic&logoColor=brightgreen
+)
 
 A standalone Windows utility for high-ratio compression using a custom `.icf` format. Designed to bypass file size upload limits through GZip solid archiving.
 
